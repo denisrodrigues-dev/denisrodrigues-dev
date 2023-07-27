@@ -8,7 +8,7 @@
 <div align="center">
 
   <div>
-    <img style="border-radius:20px; margin-bottom:15px" width="30%" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif"  />
+    <img width="50%" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif"  />
   </div>
 
   <div>
