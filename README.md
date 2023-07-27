@@ -8,7 +8,7 @@
 <div align="center">
 
   <div>
-    <img width="50%" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/2-46.gif"  />
+    <img width="30%" src="https://github.com/denisrodrigues-dev/denisrodrigues-dev/blob/main/MyEmoji_20230726_223211_37495.gif"  />
   </div>
 
   <div>
