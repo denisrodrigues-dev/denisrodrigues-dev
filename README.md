@@ -8,7 +8,7 @@
 <div align="center">
 
   <div>
-    <img width="30%" src="https://github.com/denisrodrigues-dev/denisrodrigues-dev/blob/main/MyEmoji_20230726_223211_37495.gif"  />
+    <img width="30%" src="https://github.com/denisrodrigues-dev/denisrodrigues-dev/blob/main/MyEmoji_20230727_134609_35985.gif"  />
   </div>
 
   <div>
